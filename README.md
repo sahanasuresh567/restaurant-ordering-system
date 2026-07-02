@@ -1,40 +1,26 @@
 # 🍽️ Restaurant Ordering System
 
-A simple restaurant ordering system that allows users to browse the menu, add food items to the cart, and place orders easily.
+A simple web application that allows users to browse restaurant menus, add items to their cart, and place orders through an easy-to-use interface. This project is designed to provide a smooth and responsive online food ordering experience.
+
+## 🚀 Live Demo
+
+**Website:**  https://restaurant-ordering-system-online-gobstkqds-sahana8.vercel.app/
 
 ## ✨ Features
 
-* User Login & Registration
-* Browse Food Menu
-* Add Items to Cart
-* Place Orders
-* Responsive User Interface
+* 🍔 Browse food menu
+* 🛒 Add items to cart
+* 🔍 Search for food items
+* 📱 Responsive design
+* ⚡ Fast and user-friendly interface
 
 ## 🛠️ Technologies Used
 
 * HTML
 * CSS
 * JavaScript
-* *(Add your backend/database if applicable)*
-
-## 🚀 Getting Started
-
-https://restaurant-ordering-system-online-gobstkqds-sahana8.vercel.app/
-
-## 📂 Project Structure
-restaurant-ordering-system/
-├── src/
-├── public/
-├── assets/
-├── README.md
-└── package.json
-
-## 🎯 Future Improvements
-
-* Online Payment
-* Order Tracking
-* Admin Dashboard
-* Customer Reviews
+* React
+* Vercel (Deployment)
 
 ## 👩‍💻 Author
 
@@ -42,6 +28,6 @@ restaurant-ordering-system/
 
 GitHub: https://github.com/sahanasuresh567
 
-## ⭐ Support
+---
 
-If you like this project, don't forget to give it a ⭐ on GitHub!
+⭐ If you like this project, give it a star on GitHub!
